@@ -1,1 +1,1 @@
-# react-native-kawaii-example
+# react-native-humaaans-example
