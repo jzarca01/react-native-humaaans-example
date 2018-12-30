@@ -3969,27 +3969,14 @@ react-is@^16.6.3:
   version "16.7.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.7.0.tgz#c1bd21c64f1f1364c6f70695ec02d69392f41bfa"
 
-react-kawaii@^0.8.0:
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/react-kawaii/-/react-kawaii-0.8.0.tgz#0d8410ffee1ec2b727ea1fb8dcc4322fb23f1818"
-  dependencies:
-    prop-types "^15.6.2"
-
 "react-native-humaaans@https://github.com/jzarca01/react-native-humaaans":
-  version "0.0.1"
-  resolved "https://github.com/jzarca01/react-native-humaaans#1527cd642096be3875f0640776c1799a96b9e53a"
+  version "0.2.0"
+  resolved "https://github.com/jzarca01/react-native-humaaans#fdeea6ebe814bb0afeab249303300519c5e6764a"
   dependencies:
     fs "^0.0.1-security"
     prop-types "^15.6.2"
     react-native-svg "^8.0.10"
-
-"react-native-kawaii@https://github.com/jzarca01/react-native-kawaii":
-  version "0.0.1"
-  resolved "https://github.com/jzarca01/react-native-kawaii#6ceca88cb21c27bf77e4e6a1b2b70fc33ce6d5f6"
-  dependencies:
-    fs "^0.0.1-security"
-    prop-types "^15.6.2"
-    react-native-svg "^8.0.10"
+    tinycolor2 "^1.4.1"
 
 react-native-svg@^8.0.10:
   version "8.0.10"
@@ -4762,10 +4749,6 @@ time-stamp@^1.0.0:
 tinycolor2@^1.4.1:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/tinycolor2/-/tinycolor2-1.4.1.tgz#f4fad333447bc0b07d4dc8e9209d8f39a8ac77e8"
-
-tinycolor@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/tinycolor/-/tinycolor-0.0.1.tgz#320b5a52d83abb5978d81a3e887d4aefb15a6164"
 
 tmp@^0.0.33:
   version "0.0.33"
