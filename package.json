@@ -7,9 +7,9 @@
     "test": "jest"
   },
   "dependencies": {
+    "humaaans-native": "https://github.com/jzarca01/humaaans-native",
     "react": "16.6.3",
     "react-native": "0.57.8",
-    "react-native-humaaans": "https://github.com/jzarca01/react-native-humaaans",
     "tinycolor2": "^1.4.1"
   },
   "devDependencies": {

@@ -2139,6 +2139,15 @@ http-signature@~1.2.0:
     jsprim "^1.2.2"
     sshpk "^1.7.0"
 
+"humaaans-native@https://github.com/jzarca01/humaaans-native":
+  version "0.2.0"
+  resolved "https://github.com/jzarca01/humaaans-native#ec4ae9262d5e6422a7b0aebd60e19ad45c00f67d"
+  dependencies:
+    fs "^0.0.1-security"
+    prop-types "^15.6.2"
+    react-native-svg "^8.0.10"
+    tinycolor2 "^1.4.1"
+
 iconv-lite@0.4.24, iconv-lite@^0.4.17, iconv-lite@^0.4.4, iconv-lite@~0.4.13:
   version "0.4.24"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.24.tgz#2022b4b25fbddc21d2f524974a474aafe733908b"
@@ -3968,15 +3977,6 @@ react-devtools-core@^3.4.2:
 react-is@^16.6.3:
   version "16.7.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.7.0.tgz#c1bd21c64f1f1364c6f70695ec02d69392f41bfa"
-
-"react-native-humaaans@https://github.com/jzarca01/react-native-humaaans":
-  version "0.2.0"
-  resolved "https://github.com/jzarca01/react-native-humaaans#fdeea6ebe814bb0afeab249303300519c5e6764a"
-  dependencies:
-    fs "^0.0.1-security"
-    prop-types "^15.6.2"
-    react-native-svg "^8.0.10"
-    tinycolor2 "^1.4.1"
 
 react-native-svg@^8.0.10:
   version "8.0.10"
